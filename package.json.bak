@@ -4,7 +4,7 @@
   "description": "CA Dreamers ChatGPT Bot (Teacher–Mentor style, Steve Jobs framework)",
   "main": "interakt_chatgpt_bot_node.js",
   "scripts": {
-    "wa-bot": "node wa-bot/wa_bot.js",    "start": "node interakt_chatgpt_bot_node.js"
+    "start": "node interakt_chatgpt_bot_node.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
